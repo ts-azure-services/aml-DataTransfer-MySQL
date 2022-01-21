@@ -249,7 +249,7 @@ ncurses=6.2=h0a44026_1
 ndg-httpsclient=0.5.1=pypi_0
 nest-asyncio=1.5.1=pyhd3eb1b0_0
 notebook=6.4.3=py38hecd8cb5_0
-numpy=1.18.5=pypi_0
+numpy>=1.21
 oauthlib=3.1.1=pypi_0
 onnx=1.7.0=pypi_0
 onnxconverter-common=1.6.0=pypi_0
